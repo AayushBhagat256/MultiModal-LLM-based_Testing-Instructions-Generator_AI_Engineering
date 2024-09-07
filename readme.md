@@ -86,7 +86,8 @@ This strategy ensures that the AI outputs comprehensive and standardized test ca
 # Demo Video
 Below is a 3-4 minute video demonstration showing the implementation of this tool with the features of the Red Bus mobile app:
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/7b24b9bd769349799968d5ce9c4eca8b?sid=e4cb5654-00f1-417c-b26b-c5c7439ac1de" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<!-- <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/7b24b9bd769349799968d5ce9c4eca8b?sid=e4cb5654-00f1-417c-b26b-c5c7439ac1de" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div> -->
+[![Watch the video](https://www.loom.com/share/7b24b9bd769349799968d5ce9c4eca8b?sid=7f0668f3-f2ff-44b9-8dc8-9aed37ae33b2)
 
 # Contact
 For any inquiries or support, please contact Aayush Bhagat at aayush91103@gmail.com.
